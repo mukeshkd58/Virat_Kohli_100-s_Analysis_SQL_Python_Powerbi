@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="Virat_100s_Dashboard/virat_kohli_dashboard.png" width="900">
+</p>
+
 ## 📁 Project Structure
 ```bash
 Virat_Kohli_100s_Analysis/
