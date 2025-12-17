@@ -5,6 +5,10 @@
 
 ## 📊 Power BI Dashboard Preview
 
+<p align="center">
+  <img src="Virat_100s_Dashboard/virat_kohli_dashboard.png" width="900" alt="Virat Kohli Dashboard">
+</p>
+
 ---
 
 ## 📁 Project Structure
