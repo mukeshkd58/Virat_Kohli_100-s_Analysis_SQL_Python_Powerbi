@@ -3,6 +3,12 @@
 > **Portfolio-ready Cricket Data Analytics Project**  
 > Tools used: SQL, Python, Power BI | Visualization | Sports Analytics
 
+## 📊 Power BI Dashboard Preview
+
+<p align="center">
+  <img src="Virat_100s_Dashboard/virat_kohli_dashboard.png" width="900">
+</p>
+
 ---
 
 ## 📁 Project Structure
