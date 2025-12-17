@@ -5,8 +5,11 @@
 
 ## 📊 Power BI Dashboard Preview
 
+<<<<<<< HEAD
 ## 📊 Power BI Dashboard Preview
 
+=======
+>>>>>>> b8560daf3363c0d388fb45ff9fcb43bae16301cd
 <p align="center">
   <img src="Virat_100s_Dashboard/virat_kohli_dashboard.png" width="900" alt="Virat Kohli Dashboard">
 </p>
